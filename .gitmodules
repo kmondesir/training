@@ -1,0 +1,15 @@
+[submodule "Full-Stack-Web-Development-with-Flask-Video-"]
+	path = Full-Stack-Web-Development-with-Flask-Video-
+	url = https://github.com/ChristianHur/Full-Stack-Web-Development-with-Flask-Video-
+[submodule "learning-go-2875237"]
+	path = learning-go-2875237
+	url = https://github.com/LinkedInLearning/learning-go-2875237
+[submodule "javascript-essential-training-2832077"]
+	path = javascript-essential-training-2832077
+	url = https://github.com/LinkedInLearning/javascript-essential-training-2832077.git
+[submodule "learning-python-2896241"]
+	path = learning-python-2896241
+	url = https://github.com/LinkedInLearning/learning-python-2896241.git
+[submodule "learning-git-github-2421501"]
+	path = learning-git-github-2421501
+	url = https://github.com/LinkedInLearning/learning-git-github-2421501.git
